@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fill: theme => ({
-        'indigo': theme('colors.indigo.500'),
+        'indigo-500': theme('colors.indigo.500'),
+        'gray-600': theme('colors.gray.600'),
       })
     },
   },
