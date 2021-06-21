@@ -20,22 +20,22 @@
     <nav class="h-12 w-full shadow-sm flex flex-row items-center justify-center lg:justify-center">
       <div class="hidden lg:flex flex-row justify-between text-lg lg:mx-5 xl:mx-10">
         <NuxtLink
-          to="/"
+          to="/san-pham"
           class="lg:px-5 xl:px-10 text-sm text-gray-500 font-bold py-1 border rounded-lg border-transparent hover:text-red-500"
           >Sản phẩm</NuxtLink
         >
         <NuxtLink
-          to="/"
+          to="/dat-hang"
           class="lg:px-5 xl:px-10 text-sm text-gray-500 font-bold py-1 border rounded-lg border-transparent hover:text-red-500"
           >Đặt hàng</NuxtLink
         >
         <NuxtLink
-          to="/"
+          to="/gioi-thieu"
           class="lg:px-5 xl:px-10 text-sm text-gray-500 font-bold py-1 border rounded-lg border-transparent hover:text-red-500"
           >Giới thiệu</NuxtLink
         >
         <NuxtLink
-          to="/"
+          to="/khuyen-mai"
           class="lg:px-5 xl:px-10 text-sm text-gray-500 font-bold py-1 border rounded-lg border-transparent hover:text-red-500"
           >Khuyến mãi</NuxtLink
         >
